@@ -1,4 +1,4 @@
-#Git and Github 
+#Git and GitHub 
 It is very important to learn.
 It is called version Control.
 Git is fun to do 
